@@ -1,4 +1,4 @@
-# puppeteer-badges
+# puppeteer-badges ![](https://raw.githubusercontent.com/jedrzejginter/puppeteer-badges/main/badges/jedrzejginter.png)
 
 Create Github-like badges with Puppeteer. Requires a Chrome installed locally. Tested only on MacOS.
 
