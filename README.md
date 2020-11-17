@@ -2,12 +2,16 @@
 
 Create Github-like badges with Puppeteer. Requires a Chrome installed locally. Tested only on MacOS.
 
+## Prerequisites
+
+Requires Node >=14.14 (**`fs.rmSync`**).
+
 ## Usage
 
 ```bash
 # Install deps
 > yarn
 
-# Creae all badges from manifest.json
+# Create all badges from manifest.json
 > node cli.js
 ```
