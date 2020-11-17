@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-badges",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Jedrzej Ginter <dzeejj@gmail.com> (https://github.com/jedrzejginter)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.14"
+  },
+  "dependencies": {
+    "puppeteer-core": "5.5.0"
+  }
+}
